@@ -18,7 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![php](https://img.shields.io/badge/-php%20-05122A?style=flat&logo=php)&nbsp;
+![mysql](https://img.shields.io/badge/-mysql%20-05122A?style=flat&logo=mysql)&nbsp;
+![laravel](https://img.shields.io/badge/-laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 
 
 
