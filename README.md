@@ -10,7 +10,6 @@
 
 	
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Languages and Tools 🛠 :
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html&logoColor=ffffff)
@@ -21,11 +20,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-
-
-
-- ### I’m currently learning 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
 
