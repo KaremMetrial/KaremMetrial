@@ -2,8 +2,7 @@
 
 <br/>
 <br/>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mohanadadam&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadadam" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=mohanadadam&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadadam" />
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Aly Imbaby from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm junior web developer and learning increasingly. </h4>
