@@ -24,6 +24,9 @@
 ![mysql](https://img.shields.io/badge/-mysql%20-05122A?style=flat&logo=mysql)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 ![phpstorm](https://img.shields.io/badge/-phpstorm%20-05122A?style=flat&logo=phpstorm)&nbsp;
+![vs code](https://img.shields.io/badge/-vscode%20-05122A?style=flat&logo=vscode)&nbsp;
+![postman](https://img.shields.io/badge/-postman%20-05122A?style=flat&logo=postman)&nbsp;
+![xampp](https://img.shields.io/badge/-xampp%20-05122A?style=flat&logo=xampp)&nbsp;
 
 
 
