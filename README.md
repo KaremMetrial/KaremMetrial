@@ -18,11 +18,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-%231572B6?style=flat-square&logo=bootstrap)
 ![javascript](https://img.shields.io/badge/-javascript-%231572B6?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![php](https://img.shields.io/badge/-php%20-05122A?style=flat&logo=php)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql%20-05122A?style=flat&logo=mysql)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel%20-05122A?style=flat&logo=laravel)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![phpstorm](https://img.shields.io/badge/-phpstorm%20-05122A?style=flat&logo=phpstorm)&nbsp;
 ![vs code](https://img.shields.io/badge/-vscode%20-05122A?style=flat&logo=vscode)&nbsp;
 ![postman](https://img.shields.io/badge/-postman%20-05122A?style=flat&logo=postman)&nbsp;
