@@ -8,13 +8,12 @@
 
 <h3>🚀 About Me</h3> 
 
-***I'm Karem Metrial from Egypt.**
+**I'm Karem Metrial from Egypt.**
 
 - I am an enthusiastic PHP backend developer interested in web development and backend technologies.While starting my professional journey, I gained strong skills in PHP, Laravel, and API development through personal projects and hands-on learning.
 - I am constantly improving my skills in API, MySQL database management, and issue resolution to create efficient and secure applications. I am also familiar with HTML, CSS, and JavaScript, which allows me to collaborate effectively on integrated projects.
 
 - As a person eager to grow, I look for opportunities to work with experienced teams, contribute to real-world projects, and learn from challenges in a professional environment.
-*
 
 
 	
