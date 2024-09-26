@@ -7,8 +7,7 @@
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t0bjBqMmo0eTU5bTlnZzVrOGg4cW1oNmYwanZuOXlobHBnbmlkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-
-**I'm Karem Metrial from Egypt.**
+<h4 align="center">**I'm Karem Metrial from Egypt.**</h4>
 
 - I am an enthusiastic PHP backend developer interested in web development and backend technologies.While starting my professional journey, I gained strong skills in PHP, Laravel, and API development through personal projects and hands-on learning.
 - I am constantly improving my skills in API, MySQL database management, and issue resolution to create efficient and secure applications. I am also familiar with HTML, CSS, and JavaScript, which allows me to collaborate effectively on integrated projects.
