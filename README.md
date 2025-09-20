@@ -1,51 +1,81 @@
-<h1 align="center">Hello!👋 My Name is Kareem, Welcome To My Github Profile ♥</h1>
+# 👋 Hello there, I'm Kareem
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t0bjBqMmo0eTU5bTlnZzVrOGg4cW1oNmYwanZuOXlobHBnbmlkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="380" height="280" align="right"/>
-</p>
-
-<h3>🚀 About Me</h3> 
-<h4 align="center"><em>I'm Karem Metrial from Egypt.</em></h4>
-
-- 💻 I am an enthusiastic **PHP backend developer** passionate about web development and backend technologies.
-- 🧠 I've developed strong skills in **PHP**, **Laravel**, and **API development** through personal projects and hands-on learning.
-- 📚 Continuously improving my expertise in **API**, **MySQL**, and problem-solving to deliver secure and efficient applications.
-- 🌐 I'm also familiar with **HTML**, **CSS**, and **JavaScript**, which enables me to work effectively on full-stack projects.
-- 🚀 Eager to contribute to real-world projects and collaborate with experienced teams to grow professionally.
+### A Backend Developer specializing in PHP and Laravel from Egypt.
 
 ---
 
-### 🛠 Languages and Tools
+### About Me 💻
+
+I'm a passionate and self-driven developer focused on building robust and efficient web solutions. With hands-on experience in API development and a dedication to writing clean, maintainable code, I'm constantly honing my skills in **PHP**, **Laravel**, and **MySQL**. I'm eager to contribute my expertise to impactful projects and collaborate with experienced teams to grow professionally.
+
+---
+
+### My Skills 🛠️
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.php.net/">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://laravel.com/">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postman.com/">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.phpstorm.com/">
+        <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### My GitHub Stats 📈
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php"/>
-  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel"/>
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/-PhpStorm-%23000000?style=flat-square&logo=phpstorm"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman"/>
-  <img src="https://img.shields.io/badge/-XAMPP-%23FB7A24?style=flat-square&logo=xampp"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kareem-Metrial&show_icons=true&theme=dark" alt="Kareem's GitHub stats" />
 </p>
 
 ---
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-
-### 🔗 Connect with Me
+### Connect with Me 🔗
 
 <p align="center">
   <a href="mailto:karem.metrial@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/karem-metrial/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
