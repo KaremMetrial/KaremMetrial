@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Kareem Sabry Elsayed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3000\&pause=800\&color=FF5733\&width=500\&lines=Junior+Back-End+PHP+Developer;Laravel+%7C+API+Builder+%7C+MySQL;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3000\&pause=800\&color=FF5733\&width=500\&lines=Back-End+PHP+Developer;Laravel+%7C+API+Builder+%7C+MySQL;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 ---
 
